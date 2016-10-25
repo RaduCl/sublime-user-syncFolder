@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"BracketHighlighter",
+		"Colorsublime",
+		"Emmet",
+		"Monokai JSON+",
+		"Package Control",
+		"SideBarEnhancements",
+		"Vue Syntax Highlight"
+	]
+}
