@@ -8,10 +8,15 @@
 		"Babel",
 		"BracketHighlighter",
 		"Colorsublime",
+		"DocBlockr",
+		"EditorConfig",
 		"Emmet",
 		"Monokai JSON+",
 		"Package Control",
 		"SideBarEnhancements",
-		"Vue Syntax Highlight"
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package"
 	]
 }
